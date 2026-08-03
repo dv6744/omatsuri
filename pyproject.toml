@@ -1,0 +1,26 @@
+[project]
+name = "omatsuri"
+version = "0.1.0"
+description = "RAG-based chatbot with knowledge about Japanese matsuri (festivals)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    # LLM
+    "openai>=1.57.0",
+    # Embeddings
+    "sentence-transformers>=3.3.0",
+    "fastembed>=0.4.2",
+    # Vector store
+    "qdrant-client>=1.12.0",
+    # Data / validation
+    "pydantic>=2.10.0",
+    # Environment
+    "python-dotenv>=1.0.0",
+]
+
+[tool.uv]
+constraint-dependencies = [
+    # onnxruntime and torch dropped macOS x86_64 wheels in newer releases
+    "onnxruntime<1.18; sys_platform == 'darwin' and platform_machine == 'x86_64'",
+    "torch<2.3; sys_platform == 'darwin' and platform_machine == 'x86_64'",
+]
