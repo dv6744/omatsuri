@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "sapporo-snow-festival-001",
+    "name": "さっぽろ雪まつり-Sapporo Snow Festival",
+    "City": "Sapporo",
+    "Prefecture": "Hokkaido",
+    "Date": "Early February",
+    "Description": "This is Japan's largest winter festival featuring massive, intricate snow and ice sculptures covering Odori Park. Visitors can enjoy illuminated displays, ice slides, and a variety of food stalls serving local Hokkaido delicacies. It attracts millions of tourists from all over the world each year.",
+    "AnnualTurnOut": "2,000,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "yosakoi-soran-festival-002",
+    "name": "YOSAKOIソーラン祭り-Yosakoi Soran Festival",
+    "City": "Sapporo",
+    "Prefecture": "Hokkaido",
+    "Date": "Early June",
+    "Description": "Thousands of dancers perform energetic routines incorporating traditional Japanese folk music and modern choreography. The teams compete in the streets of Sapporo with colorful costumes and handheld clappers called naruko. The energy and rhythm create a vibrant atmosphere that defines the start of Hokkaido's summer.",
+    "AnnualTurnOut": "1,500,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "hokkaido-shrine-festival-003",
+    "name": "北海道神宮例祭-Hokkaido Shrine Festival",
+    "City": "Sapporo",
+    "Prefecture": "Hokkaido",
+    "Date": "June 14-16",
+    "Description": "Also known as the Sapporo Festival, this event features elaborate processions with people dressed in traditional Heian-period clothing. Traditional portable shrines called mikoshi are carried through the city streets. It is one of the most culturally significant spiritual events in the capital city.",
+    "AnnualTurnOut": "500,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "otaru-snow-light-path-004",
+    "name": "小樽雪あかりの路-Otaru Snow Light Path",
+    "City": "Otaru",
+    "Prefecture": "Hokkaido",
+    "Date": "Early February",
+    "Description": "The Otaru Canal is transformed into a magical winter scene with thousands of hand-crafted candles and glass floats. Soft light reflects off the snow and the water, creating a romantic and peaceful atmosphere. It is a community-driven event that invites locals and visitors to place candles along the canal.",
+    "AnnualTurnOut": "500,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "hakodate-port-festival-005",
+    "name": "函館港まつり-Hakodate Port Festival",
+    "City": "Hakodate",
+    "Prefecture": "Hokkaido",
+    "Date": "Early August",
+    "Description": "This is the largest summer event in Hakodate, celebrating the city's history as a historic port. The highlight is the massive parade where thousands dance to the 'Ika Odori' or squid dance. Fireworks over the bay conclude the vibrant festivities every night.",
+    "AnnualTurnOut": "400,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "asahikawa-winter-festival-006",
+    "name": "旭川冬まつり-Asahikawa Winter Festival",
+    "City": "Asahikawa",
+    "Prefecture": "Hokkaido",
+    "Date": "Early February",
+    "Description": "Known for having one of the largest snow sculptures in the world, this festival is a major rival to the Sapporo Snow Festival. The event features a massive snow stage used for music performances and fireworks. It serves as a celebration of the harsh but beautiful northern winters.",
+    "AnnualTurnOut": "900,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "obihiro-ice-festival-007",
+    "name": "おびひろ氷まつり-Obihiro Ice Festival",
+    "City": "Obihiro",
+    "Prefecture": "Hokkaido",
+    "Date": "Late January",
+    "Description": "Located in the heart of Tokachi, this festival showcases impressive ice sculptures and snow slides for children. It highlights the local culture of the region and offers plenty of warm, local food to counter the freezing temperatures. The evening illumination makes the ice figures shimmer brightly against the dark night sky.",
+    "AnnualTurnOut": "150,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "kitami-winter-festival-008",
+    "name": "北見厳寒の焼き肉まつり-Kitami Winter Yakiniku Festival",
+    "City": "Kitami",
+    "Prefecture": "Hokkaido",
+    "Date": "Early February",
+    "Description": "This unique festival celebrates Kitami's love for grilled meat despite the extreme winter conditions. Participants gather outdoors to cook meat on charcoal grills while surrounded by snow. It is a testament to the local resilience and a fun, communal dining experience.",
+    "AnnualTurnOut": "5,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "abashiri-drift-ice-festival-009",
+    "name": "あばしりオホーツク流氷まつり-Abashiri Drift Ice Festival",
+    "City": "Abashiri",
+    "Prefecture": "Hokkaido",
+    "Date": "Mid-February",
+    "Description": "Held to celebrate the arrival of drift ice in the Okhotsk Sea, this festival features snow sculptures and unique local entertainment. Visitors can participate in ice-related activities and enjoy freshly caught seafood. It offers a distinct experience focused on the unique marine nature of Eastern Hokkaido.",
+    "AnnualTurnOut": "80,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "memanbetsu-ice-festival-010",
+    "name": "めまんべつ観光冬まつり-Memanbetsu Tourism Winter Festival",
+    "City": "Ozora",
+    "Prefecture": "Hokkaido",
+    "Date": "Early February",
+    "Description": "This festival takes place on the frozen surface of Lake Abashiri. Activities include hovercraft rides, ice fishing for smelt, and various games on the ice. The combination of local food and frozen lake sports makes it a popular destination for families.",
+    "AnnualTurnOut": "20,000",
+    "RelevanceRating": "Local"
+  },
+  {
+    "id": "niseko-snow-festival-011",
+    "name": "ニセコ冬まつり-Niseko Winter Festival",
+    "City": "Niseko",
+    "Prefecture": "Hokkaido",
+    "Date": "Late January",
+    "Description": "Niseko celebrates its vibrant international community and heavy snowfall with a variety of winter sports events and food stalls. The festival features live music, traditional taiko drumming, and fireworks. It attracts visitors from around the world who are visiting the famous ski resorts.",
+    "AnnualTurnOut": "30,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "akkeshi-oyster-festival-012",
+    "name": "あっけし牡蠣まつり-Akkeshi Oyster Festival",
+    "City": "Akkeshi",
+    "Prefecture": "Hokkaido",
+    "Date": "Early October",
+    "Description": "This food-centric festival is a must for seafood lovers, highlighting the famous Akkeshi oysters. Large grills are provided for visitors to purchase and cook fresh oysters, clams, and other local marine delicacies on the spot. It is a major event that brings together foodies from across Hokkaido.",
+    "AnnualTurnOut": "40,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "shiraoi-hometown-festival-013",
+    "name": "白老牛肉まつり-Shiraoi Beef Festival",
+    "City": "Shiraoi",
+    "Prefecture": "Hokkaido",
+    "Date": "Early June",
+    "Description": "A paradise for meat enthusiasts, this festival focuses on the premium Shiraoi beef. Thousands of people gather to grill beef outdoors on large communal setups. It is a fantastic opportunity to taste one of Hokkaido's most prized agricultural products.",
+    "AnnualTurnOut": "50,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "hokuto-cherry-blossom-014",
+    "name": "北斗桜回廊-Hokuto Cherry Blossom Corridor",
+    "City": "Hokuto",
+    "Prefecture": "Hokkaido",
+    "Date": "Late April",
+    "Description": "This event celebrates the beauty of cherry blossoms in the Hokuto region with beautifully illuminated trees and local food markets. The famous Matsumae-han street features historic buildings framing the pink flowers. It is a peaceful way to welcome the arrival of spring in the north.",
+    "AnnualTurnOut": "100,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "tomakomai-port-festival-015",
+    "name": "苫小牧港まつり-Tomakomai Port Festival",
+    "City": "Tomakomai",
+    "Prefecture": "Hokkaido",
+    "Date": "Early August",
+    "Description": "This festival celebrates the industrial and maritime significance of Tomakomai port. It includes massive street parades, music stages, and an impressive fireworks display over the port area. Local citizens participate enthusiastically in dance performances that run throughout the weekend.",
+    "AnnualTurnOut": "200,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "furano-belly-button-016",
+    "name": "ふらの北海へそ祭り-Furano Belly Button Festival",
+    "City": "Furano",
+    "Prefecture": "Hokkaido",
+    "Date": "Late July",
+    "Description": "One of the most eccentric festivals in Japan, participants paint funny faces on their stomachs and dance through the streets. The goal is to celebrate the fact that Furano is located in the geographical center of Hokkaido. It is a humorous and lighthearted tradition that brings huge crowds to the city.",
+    "AnnualTurnOut": "60,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "noboribetsu-hell-festival-017",
+    "name": "登別地獄まつり-Noboribetsu Hell Festival",
+    "City": "Noboribetsu",
+    "Prefecture": "Hokkaido",
+    "Date": "Late August",
+    "Description": "Based on the legend of the Enma (King of Hell) emerging from the hot spring vents, this festival features a giant red demon mask in a parade. Attendees participate in dramatic performances and dance through the streets of the hot spring town. It is a uniquely intense festival set against a backdrop of steaming volcanic vents.",
+    "AnnualTurnOut": "30,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "hokkaido-marathon-festival-018",
+    "name": "北海道マラソンフェスティバル-Hokkaido Marathon Festival",
+    "City": "Sapporo",
+    "Prefecture": "Hokkaido",
+    "Date": "Late August",
+    "Description": "This event combines a major marathon race through the streets of Sapporo with a large festival expo. Food stalls, local product booths, and sports demonstrations create a lively atmosphere for spectators and runners alike. It is a major gathering for sports enthusiasts and local culture.",
+    "AnnualTurnOut": "100,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "muroran-yakitori-festival-019",
+    "name": "室蘭やきとり祭-Muroran Yakitori Festival",
+    "City": "Muroran",
+    "Prefecture": "Hokkaido",
+    "Date": "Late September",
+    "Description": "Celebrating the unique pork-based 'yakitori' style of Muroran, this food festival draws massive crowds to taste local specialties. Live music and street performances accompany the culinary offerings. It is a deep dive into the local industrial history and culinary identity of the Muroran area.",
+    "AnnualTurnOut": "40,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "rusutsu-fireworks-020",
+    "name": "ルスツ花火大会-Rusutsu Fireworks Festival",
+    "City": "Rusutsu",
+    "Prefecture": "Hokkaido",
+    "Date": "Mid-July",
+    "Description": "Held at the popular Rusutsu Resort, this festival features spectacular fireworks launched in coordination with music. The event includes amusement park rides, stage performances, and diverse food options. It is a major summer draw for tourists visiting the resort area.",
+    "AnnualTurnOut": "20,000",
+    "RelevanceRating": "Local"
+  },
+  {
+    "id": "aomori-nebuta-0001",
+    "name": "青森ねぶた祭-Aomori Nebuta Matsuri",
+    "City": "Aomori",
+    "Prefecture": "Aomori",
+    "Date": "August 2nd-7th",
+    "Description": "This world-famous festival features massive, illuminated paper floats known as nebuta that are pushed through the streets. Dancers called haneto follow the floats while chanting, creating an incredibly energetic atmosphere. It is one of the most iconic summer festivals in all of Japan, attracting millions of spectators to witness the artistic craftsmanship.",
+    "AnnualTurnOut": "2800000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "sendai-tanabata-0002",
+    "name": "仙台七夕まつり-Sendai Tanabata Matsuri",
+    "City": "Sendai",
+    "Prefecture": "Miyagi",
+    "Date": "August 6th-8th",
+    "Description": "The city center is decorated with thousands of colorful, handmade bamboo streamers that sway gracefully in the breeze. This event celebrates the meeting of deities Orihime and Hikoboshi, featuring elaborate paper decorations and traditional performances. It is considered one of the three great festivals of the Tohoku region and draws massive crowds to Sendai's shopping arcades.",
+    "AnnualTurnOut": "2000000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kanto-matsuri-0003",
+    "name": "秋田竿燈まつり-Akita Kanto Matsuri",
+    "City": "Akita",
+    "Prefecture": "Akita",
+    "Date": "August 3rd-6th",
+    "Description": "Performers balance long bamboo poles topped with lit paper lanterns on their palms, foreheads, or shoulders to showcase incredible skill. The sight of hundreds of glowing lanterns moving in unison against the night sky is breathtaking and symbolic of a bountiful harvest. It is a major highlight of Akita's cultural calendar and serves as a prayer for good crops.",
+    "AnnualTurnOut": "1300000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "waraji-matsuri-0004",
+    "name": "福島わらじまつり-Fukushima Waraji Matsuri",
+    "City": "Fukushima",
+    "Prefecture": "Fukushima",
+    "Date": "First Friday and Saturday of August",
+    "Description": "Participants carry a massive straw sandal, or waraji, through the streets to pray for safe travel and physical health. The festival features energetic drumming and rhythmic chanting that energizes the entire city of Fukushima. It is a unique cultural expression that highlights local craftsmanship and communal endurance.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "hanagasa-matsuri-0005",
+    "name": "山形花笠まつり-Yamagata Hanagasa Matsuri",
+    "City": "Yamagata",
+    "Prefecture": "Yamagata",
+    "Date": "August 5th-7th",
+    "Description": "Dancers wear colorful straw hats decorated with bright red flowers while performing dynamic routines to the beat of taiko drums. This festive parade fills the streets with vibrant colors and joyful music celebrating the spirit of Yamagata. It is one of the most visually stunning summer celebrations in the northern prefectures.",
+    "AnnualTurnOut": "1000000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "morioka-sansa-0006",
+    "name": "盛岡さんさ踊り-Morioka Sansa Odori",
+    "City": "Morioka",
+    "Prefecture": "Iwate",
+    "Date": "August 1st-4th",
+    "Description": "Recognized as having the world's largest taiko drum parade, this event features thousands of performers dancing to rhythmic beats. The tradition originated from a legend where people danced to celebrate the defeat of a demon, and that spirit of joy continues today. It is a central part of Iwate's summer identity and attracts massive participation from locals and tourists alike.",
+    "AnnualTurnOut": "1400000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kamaishi-toramai-0007",
+    "name": "釜石虎舞-Kamaishi Toramai",
+    "City": "Kamaishi",
+    "Prefecture": "Iwate",
+    "Date": "May 3rd",
+    "Description": "This vibrant tiger dance features performers in elaborate tiger costumes leaping and tumbling to the sound of whistles and drums. It is a traditional performance meant to drive away evil spirits and ensure the safety of fishermen at sea. The festival remains a crucial part of the coastal community's identity and heritage.",
+    "AnnualTurnOut": "50000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "somano-maoi-0008",
+    "name": "相馬野馬追-Soma Nomaoi",
+    "City": "Minamisoma",
+    "Prefecture": "Fukushima",
+    "Date": "Last Saturday to Monday of July",
+    "Description": "Dating back over a thousand years, this event features hundreds of horsemen in full samurai armor competing in races and battles. It is a spectacular living history lesson that showcases the legacy of the Soma clan in Fukushima. The intensity of the horse charges and the traditional attire provide a unique insight into Japan's feudal past.",
+    "AnnualTurnOut": "150000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "hirosaki-neputa-0009",
+    "name": "弘前ねぷた祭り-Hirosaki Neputa Matsuri",
+    "City": "Hirosaki",
+    "Prefecture": "Aomori",
+    "Date": "August 1st-7th",
+    "Description": "Unlike the Aomori version, these floats are typically fan-shaped and painted with intricate historical scenes. The atmosphere is more solemn and traditional, reflecting the samurai history of the Hirosaki castle town. It is a beautifully atmospheric event that lights up the historic streets of the city each summer.",
+    "AnnualTurnOut": "1600000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "chagu-chagu-umakko-0010",
+    "name": "チャグチャグ馬コ-Chagu Chagu Umakko",
+    "City": "Takizawa",
+    "Prefecture": "Iwate",
+    "Date": "Second Saturday of June",
+    "Description": "Over 100 horses dressed in colorful costumes and bells parade from a local shrine to Morioka city. The name of the festival comes from the chagu-chagu sound created by the dozens of bells worn by each horse. It serves as an ancient agricultural ritual to honor the horse, which was historically the most valued companion of the region's farmers.",
+    "AnnualTurnOut": "20000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "iwaki-odori-0011",
+    "name": "いわき踊り-Iwaki Odori",
+    "City": "Iwaki",
+    "Prefecture": "Fukushima",
+    "Date": "First week of August",
+    "Description": "Thousands of locals participate in a mass street dance featuring unique choreography set to traditional music. The festival serves as a massive community gathering that showcases the spirit and solidarity of the people in Iwaki. It has grown to be a staple summer event that brings generations together for a night of celebration.",
+    "AnnualTurnOut": "300000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "yonezawa-uesugi-0012",
+    "name": "米沢上杉まつり-Yonezawa Uesugi Matsuri",
+    "City": "Yonezawa",
+    "Prefecture": "Yamagata",
+    "Date": "April 29th-May 3rd",
+    "Description": "This festival honors the legendary daimyo Uesugi Kenshin through a massive reenactment of the Battle of Kawanakajima. Hundreds of participants don historical armor to stage an epic conflict that captivates thousands of history enthusiasts. It is an essential event for those interested in samurai culture and the history of the Tohoku region.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "hachinohe-sansha-0013",
+    "name": "八戸三社大祭-Hachinohe Sansha Taisai",
+    "City": "Hachinohe",
+    "Prefecture": "Aomori",
+    "Date": "July 31st-August 4th",
+    "Description": "This grand festival features dozens of ornate floats that unfold into massive, three-dimensional sculptures during the parade. It is recognized as a UNESCO Intangible Cultural Heritage event for its profound historical and artistic value. The sheer detail on the floats representing mythical creatures is truly a sight to behold.",
+    "AnnualTurnOut": "1000000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "aizu-byakkotai-0014",
+    "name": "会津まつり-Aizu Matsuri",
+    "City": "Aizu-Wakamatsu",
+    "Prefecture": "Fukushima",
+    "Date": "Late September",
+    "Description": "The city comes alive with a grand procession depicting the history of the Aizu domain, including the famous Byakkotai samurai youth. It features period costumes and a solemn atmosphere that pays tribute to the bravery of the region's ancestors. The highlight is the massive parade of men and women dressed as samurai marching through the historic town.",
+    "AnnualTurnOut": "250000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "akita-kanto-0015",
+    "name": "大曲の花火-Omagari Fireworks",
+    "City": "Daisen",
+    "Prefecture": "Akita",
+    "Date": "Last Saturday of August",
+    "Description": "Considered one of Japan's most prestigious fireworks competitions, top pyrotechnicians from across the country compete here. The display is famous for the exceptional quality and artistic timing of the explosions against the night sky. It draws massive crowds of visitors who come to witness the pinnacle of Japanese firework technology.",
+    "AnnualTurnOut": "750000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "sendai-aoba-0016",
+    "name": "仙台青葉まつり-Sendai Aoba Matsuri",
+    "City": "Sendai",
+    "Prefecture": "Miyagi",
+    "Date": "Third weekend of May",
+    "Description": "This festival commemorates the founding of Sendai and the lord Date Masamune with a parade of traditional floats and samurai dancers. Performers execute the vibrant 'Suzume Odori' or sparrow dance throughout the streets of the city. It is a joyous occasion that highlights the proud history and cultural vitality of the Sendai region.",
+    "AnnualTurnOut": "900000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "yamagata-sairei-0017",
+    "name": "山形大沼まつり-Yamagata Onuma Matsuri",
+    "City": "Yamagata",
+    "Prefecture": "Yamagata",
+    "Date": "July 15th",
+    "Description": "A smaller, community-focused festival centered on local shrines and traditional offerings for a prosperous harvest. It features local folk songs and dances performed by neighborhood groups to preserve their unique heritage. While not a national spectacle, it is a deeply meaningful event for the local residents who organize it annually.",
+    "AnnualTurnOut": "5000",
+    "RelevanceRating": "Local"
+  },
+  {
+    "id": "iwate-geibi-0018",
+    "name": "猊鼻渓舟下りまつり-Geibikei Boat Festival",
+    "City": "Ichinoseki",
+    "Prefecture": "Iwate",
+    "Date": "August 10th",
+    "Description": "Boats navigate the beautiful Geibikei Gorge while performers sing traditional songs from the vessels to the surrounding cliffs. This creates a haunting and beautiful auditory experience that echoes through the natural landscape. It is a unique celebration of the region's natural beauty and traditional musical arts.",
+    "AnnualTurnOut": "15000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "fukushima-waraji-0019",
+    "name": "福島・羽黒山祭-Hagurosan Festival",
+    "City": "Fukushima",
+    "Prefecture": "Fukushima",
+    "Date": "July 15th",
+    "Description": "This religious festival involves a solemn pilgrimage to the top of Mount Haguro to offer prayers at the shrine. Local community members participate in a ritual walk that has been passed down through generations. It is a quiet but deeply spiritual event that maintains the rural traditions of the prefecture.",
+    "AnnualTurnOut": "3000",
+    "RelevanceRating": "Local"
+  },
+  {
+    "id": "miyagi-shiogama-0020",
+    "name": "塩竈みなと祭-Shiogama Minato Matsuri",
+    "City": "Shiogama",
+    "Prefecture": "Miyagi",
+    "Date": "Third Monday of July",
+    "Description": "A spectacular maritime festival featuring a massive procession of boats carrying sacred shrines through the waters of Matsushima Bay. The shore is lined with spectators as the brightly decorated boats create a picturesque scene against the ocean. It is one of the most important harbor festivals in Japan, focusing on the safety of sailors and the bounty of the sea.",
+    "AnnualTurnOut": "400000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kanda-matsuri-0001",
+    "name": "神田祭-Kanda Matsuri",
+    "City": "Chiyoda",
+    "Prefecture": "Tokyo",
+    "Date": "Mid-May",
+    "Description": "One of Tokyo's three most famous festivals, this event dates back to the Edo period. It features large portable shrines called mikoshi being paraded through the streets accompanied by traditional music. The festival celebrates the prosperity of the city and is held every two years on alternating years with Sanno Matsuri.",
+    "AnnualTurnOut": "1000000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "sanja-matsuri-0002",
+    "name": "三社祭-Sanja Matsuri",
+    "City": "Taito",
+    "Prefecture": "Tokyo",
+    "Date": "Third weekend of May",
+    "Description": "This is one of the wildest and largest festivals in Tokyo, centered around the Asakusa Shrine. Local neighborhood groups carry three main golden mikoshi through the streets with intense energy. The event draws massive crowds to the historic Asakusa district to witness the spectacle and traditional rituals.",
+    "AnnualTurnOut": "1500000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "sanno-matsuri-0003",
+    "name": "山王祭-Sanno Matsuri",
+    "City": "Chiyoda",
+    "Prefecture": "Tokyo",
+    "Date": "Mid-June",
+    "Description": "Associated with the Hie Shrine, this festival historically received the patronage of the Tokugawa Shogunate. It features an elaborate parade with colorful costumes and floats that travel through the heart of Tokyo. It is considered one of the three major festivals of Edo, representing deep historical roots in the capital.",
+    "AnnualTurnOut": "300000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kawagoe-matsuri-0004",
+    "name": "川越まつり-Kawagoe Matsuri",
+    "City": "Kawagoe",
+    "Prefecture": "Saitama",
+    "Date": "Third Saturday and Sunday of October",
+    "Description": "Famous for its beautifully decorated floats that resemble mobile stages, this festival takes place in the 'Little Edo' district of Kawagoe. The highlight is the 'hikkawase' where floats meet at intersections and face off with flute and drum musical performances. It is recognized as a UNESCO Intangible Cultural Heritage event.",
+    "AnnualTurnOut": "900000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "chichibu-yomatsuri-0005",
+    "name": "秩父夜祭-Chichibu Yomatsuri",
+    "City": "Chichibu",
+    "Prefecture": "Saitama",
+    "Date": "December 2nd and 3rd",
+    "Description": "This spectacular night festival features massive, ornate floats adorned with lanterns that are pulled up a steep hill. It is known for its fireworks display that illuminates the cold winter night sky over the mountains. The event is a grand tradition rooted in the Chichibu Shrine's history.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "tsukuba-matsuri-0006",
+    "name": "つくばフェスティバル-Tsukuba Festival",
+    "City": "Tsukuba",
+    "Prefecture": "Ibaraki",
+    "Date": "Mid-May",
+    "Description": "A modern cultural festival held in the science city of Tsukuba, focusing on international exchange and local community building. It includes food stalls from various countries, music performances, and parades reflecting the city's diverse academic population. It serves as a major gathering point for residents of southern Ibaraki.",
+    "AnnualTurnOut": "150000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "hitachi-furyumono-0007",
+    "name": "日立風流物-Hitachi Furyumono",
+    "City": "Hitachi",
+    "Prefecture": "Ibaraki",
+    "Date": "April",
+    "Description": "This festival features massive mechanical puppet theaters built into giant floats that stand several stories high. The puppets perform traditional plays accompanied by live music, showcasing unique craftsmanship from the Edo period. It is designated as a UNESCO Intangible Cultural Heritage site for its architectural ingenuity.",
+    "AnnualTurnOut": "50000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "utsunomiya-kama-0008",
+    "name": "宇都宮ふるさと宮まつり-Utsunomiya Furusato Miya Matsuri",
+    "City": "Utsunomiya",
+    "Prefecture": "Tochigi",
+    "Date": "First Saturday and Sunday of August",
+    "Description": "The main streets of Utsunomiya are filled with mikoshi, traditional dances, and marching bands during this massive city-wide celebration. The event highlights local culture and fosters community spirit through collective performance and participation. It is the most significant summer event for the citizens of Tochigi's capital.",
+    "AnnualTurnOut": "500000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "takasaki-matsuri-0009",
+    "name": "高崎まつり-Takasaki Matsuri",
+    "City": "Takasaki",
+    "Prefecture": "Gunma",
+    "Date": "First weekend of August",
+    "Description": "One of the largest festivals in Gunma Prefecture, centered around the Takasaki Station area. It features the famous 'Takasaki Odori' dance and a large-scale fireworks show that lights up the city center. It brings together the local community for a vibrant celebration of summer traditions.",
+    "AnnualTurnOut": "800000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "kiryu-yagibushi-0010",
+    "name": "桐生八木節まつり-Kiryu Yagibushi Matsuri",
+    "City": "Kiryu",
+    "Prefecture": "Gunma",
+    "Date": "Early August",
+    "Description": "This festival celebrates the 'Yagibushi' traditional song and dance style that originated in the region. Participants gather in central Kiryu to dance in large circles to the rhythmic beats of drums and flutes. The entire city transforms into a festive space celebrating its local folk heritage.",
+    "AnnualTurnOut": "400000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "odawara-hojo-0011",
+    "name": "小田原北條五代祭り-Odawara Hojo Godai Matsuri",
+    "City": "Odawara",
+    "Prefecture": "Kanagawa",
+    "Date": "May 3rd",
+    "Description": "A historical reenactment festival that honors the five generations of the Hojo clan who ruled from Odawara Castle. The main feature is a massive samurai procession with participants in armor marching through the streets of the city. It provides a unique glimpse into the Sengoku period history of the Kanagawa region.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "atsugi-ayu-0012",
+    "name": "あつぎ鮎まつり-Atsugi Ayu Matsuri",
+    "City": "Atsugi",
+    "Prefecture": "Kanagawa",
+    "Date": "First weekend of August",
+    "Description": "This event celebrates the sweetfish of the Sagami River and features one of the most extensive fireworks displays in Kanagawa Prefecture. The festival includes food stalls, live music, and various dance performances along the riverside. It attracts visitors from across the region to enjoy summer festivities by the water.",
+    "AnnualTurnOut": "500000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "sawara-taisa-0013",
+    "name": "佐原の大祭-Sawara Taisa Matsuri",
+    "City": "Katori",
+    "Prefecture": "Chiba",
+    "Date": "July and October",
+    "Description": "Held in the historic district of Sawara, this festival features enormous floats topped with giant dolls representing mythological figures. The floats are maneuvered through narrow, traditional streets lined with preserved Edo-period buildings. It is recognized for its historical significance and unique artistic display.",
+    "AnnualTurnOut": "300000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "fukagawa-hachiman-0014",
+    "name": "深川八幡祭-Fukagawa Hachiman Matsuri",
+    "City": "Koto",
+    "Prefecture": "Tokyo",
+    "Date": "Mid-August",
+    "Description": "Famous for the 'mizukake' (water splashing) tradition, where spectators douse the mikoshi carriers with water to cool them down. It is considered one of the three great festivals of Edo and is a high-energy water celebration. The festival draws participants from every neighborhood in the Koto district.",
+    "AnnualTurnOut": "500000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kamakura-matsuri-0015",
+    "name": "鎌倉まつり-Kamakura Matsuri",
+    "City": "Kamakura",
+    "Prefecture": "Kanagawa",
+    "Date": "Mid-April",
+    "Description": "Held at Tsurugaoka Hachimangu Shrine, this festival celebrates the historic capital of the Kamakura Shogunate. The highlight is the 'Yabusame' event, where samurai on horseback shoot arrows at targets while galloping at full speed. It perfectly captures the atmosphere of medieval Japanese warrior culture.",
+    "AnnualTurnOut": "100000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "shonan-hiratsuka-0016",
+    "name": "湘南ひらつか七夕まつり-Shonan Hiratsuka Tanabata Matsuri",
+    "City": "Hiratsuka",
+    "Prefecture": "Kanagawa",
+    "Date": "Early July",
+    "Description": "Widely known as one of the best Tanabata festivals in the Kanto region, the streets are decorated with massive, colorful bamboo streamers. These decorations often depict popular anime characters or current trends, making the display extremely visually appealing. It is a major summer celebration that draws massive crowds to Hiratsuka.",
+    "AnnualTurnOut": "1700000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "tokyo-jidai-0017",
+    "name": "東京時代祭-Tokyo Jidai Matsuri",
+    "City": "Taito",
+    "Prefecture": "Tokyo",
+    "Date": "November",
+    "Description": "A historical parade that showcases the fashion and traditions of Tokyo throughout different periods of history. Participants dress in authentic attire ranging from the Edo period to the Meiji era, creating a living museum on the streets. It is an educational and visually stimulating event for history enthusiasts.",
+    "AnnualTurnOut": "50000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "naritasan-gion-0018",
+    "name": "成田祇園祭-Naritasan Gion Matsuri",
+    "City": "Narita",
+    "Prefecture": "Chiba",
+    "Date": "Early July",
+    "Description": "This festival takes place at the historic Naritasan Shinshoji Temple, involving the parading of ten elaborate wooden floats through the steep streets. The energy is intense as the floats are manually pushed through the dense crowds visiting the temple. It serves as a major cultural pillar for the town of Narita.",
+    "AnnualTurnOut": "450000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "kawasaki-kanamara-0019",
+    "name": "かなまら祭り-Kanamara Matsuri",
+    "City": "Kawasaki",
+    "Prefecture": "Kanagawa",
+    "Date": "First Sunday of April",
+    "Description": "A unique and internationally famous festival held at Kanayama Shrine that celebrates fertility and sexual health. The parade features large phallic sculptures carried through the streets in a lighthearted, festive atmosphere. It has gained significant global attention for its unconventional and open-minded nature.",
+    "AnnualTurnOut": "50000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "ibaraki-mito-0020",
+    "name": "水戸黄門まつり-Mito Komon Matsuri",
+    "City": "Mito",
+    "Prefecture": "Ibaraki",
+    "Date": "Early August",
+    "Description": "Named after the famous historical figure Tokugawa Mitsukuni, this festival is the biggest summer event in the prefectural capital. It features a grand parade, a large fireworks display at Senba Lake, and numerous musical performances. The community comes together to celebrate the city's rich history and status.",
+    "AnnualTurnOut": "600000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "niigata-katamachi-tokamachi-0001",
+    "name": "十日町雪まつり-tokamachi snow festival",
+    "City": "Tokamachi",
+    "Prefecture": "Niigata",
+    "Date": "third weekend of february",
+    "Description": "This is one of the oldest snow festivals in Japan featuring grand snow sculptures throughout the city. Visitors can enjoy a spectacular stage made entirely of snow and local cuisine at various food stalls. It is a massive community event that celebrates the heavy snowfall of the region.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "toyama-tonami-tulip-0002",
+    "name": "となみチューリップフェア-tonami tulip fair",
+    "City": "Tonami",
+    "Prefecture": "Toyama",
+    "Date": "late april to early may",
+    "Description": "The Tonami Tulip Fair features millions of tulips blooming in an array of vibrant colors. It is the largest tulip festival in Japan with artistic flower beds and themed garden displays. It marks the transition into spring for the local community and attracts many domestic tourists.",
+    "AnnualTurnOut": "300000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "ishikawa-abare-matsuri-0003",
+    "name": "あばれ祭り-abare matsuri",
+    "City": "Noto",
+    "Prefecture": "Ishikawa",
+    "Date": "first friday and saturday of july",
+    "Description": "Also known as the Violent Festival, this event features massive fire torches and portable shrines being smashed into the ground. It is an energetic Shinto ritual meant to honor the gods and ward off bad luck. The spectacle of fire and destruction is a highlight of the Noto Peninsula summer.",
+    "AnnualTurnOut": "30000",
+    "RelevanceRating": "prefectural"
+  },
+  {
+    "id": "fukui-mikuni-matsuri-0004",
+    "name": "三国祭-mikuni matsuri",
+    "City": "Sakai",
+    "Prefecture": "Fukui",
+    "Date": "19th to 21st of may",
+    "Description": "This festival is famous for its towering floats topped with large warrior dolls. It is recognized as one of the three major festivals of the Hokuriku region. The procession moves through the historic streets of the Mikuni port town to celebrate the local deity.",
+    "AnnualTurnOut": "150000",
+    "RelevanceRating": "prefectural"
+  },
+  {
+    "id": "yamanashi-yoshida-fire-0005",
+    "name": "吉田の火祭-yoshida fire festival",
+    "City": "Fujiyoshida",
+    "Prefecture": "Yamanashi",
+    "Date": "26th and 27th of august",
+    "Description": "Held at the end of the climbing season for Mt. Fuji, this festival features giant torches lining the city streets. It is considered one of the three unique festivals of Japan for its dramatic use of fire. The ritual signifies the closing of the mountain to climbers for the season.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "nagano-o-bashira-0006",
+    "name": "御柱祭-o bashira matsuri",
+    "City": "Suwa",
+    "Prefecture": "Nagano",
+    "Date": "every six years in april and may",
+    "Description": "One of the most dangerous and intense festivals in Japan, participants ride massive logs down steep hillsides. These logs are then used to replace the pillars of the Suwa Grand Shrine. It is a profound demonstration of devotion and courage occurring only once every six years.",
+    "AnnualTurnOut": "500000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "shizuoka-hamamatsu-kite-0007",
+    "name": "浜松まつり-hamamatsu matsuri",
+    "City": "Hamamatsu",
+    "Prefecture": "Shizuoka",
+    "Date": "3rd to 5th of may",
+    "Description": "This festival centers on the traditional giant kite battles held in the sand dunes. In the evening, the city streets come alive with ornate festival floats and traditional music. It is a celebratory event that honors the birth of children within the local community.",
+    "AnnualTurnOut": "1500000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "aichi-konan-wisteria-0008",
+    "name": "江南藤まつり-konan wisteria festival",
+    "City": "Konan",
+    "Prefecture": "Aichi",
+    "Date": "late april to early may",
+    "Description": "Held at Mandara-ji Park, this festival celebrates the blooming of thousands of beautiful wisteria flowers. The tunnels of hanging purple blossoms create a stunning visual experience for all visitors. It serves as a major cultural event for the local residents during the spring season.",
+    "AnnualTurnOut": "100000",
+    "RelevanceRating": "city"
+  },
+  {
+    "id": "gifu-gujohachiman-odori-0009",
+    "name": "郡上おどり-gujo odori",
+    "City": "Gujo",
+    "Prefecture": "Gifu",
+    "Date": "mid july to early september",
+    "Description": "This is one of the most famous Bon dances in Japan, lasting for over thirty nights during the summer. Dancers move through the streets of the historic town of Gujo Hachiman in a lively circular formation. The climax of the event occurs during the four days of Obon in mid-August.",
+    "AnnualTurnOut": "300000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "niigata-kashiwazaki-fireworks-0010",
+    "name": "ぎおん柏崎まつり海の大花火大会-kashiwazaki gion fireworks",
+    "City": "Kashiwazaki",
+    "Prefecture": "Niigata",
+    "Date": "26th of july",
+    "Description": "This firework display is renowned for its spectacular shells that explode over the Sea of Japan. The massive water bursts and synchronized pyrotechnics create a unique atmosphere for spectators on the beach. It is one of the premier summer firework festivals in the entire Niigata Prefecture.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "prefectural"
+  },
+  {
+    "id": "toyama-mugiya-0011",
+    "name": "城端むぎや祭り-johana mugiya matsuri",
+    "City": "Nanto",
+    "Prefecture": "Toyama",
+    "Date": "mid september",
+    "Description": "The festival celebrates the history and culture of the Mugiya folk song through traditional dance performances. Dancers wear traditional attire and perform in the streets of the historic Johana district. It is a deep-rooted cultural event that preserves the heritage of the region.",
+    "AnnualTurnOut": "50000",
+    "RelevanceRating": "city"
+  },
+  {
+    "id": "ishikawa-kanazawa-hyakumangoku-0012",
+    "name": "金沢百万石まつり-kanazawa hyakumangoku matsuri",
+    "City": "Kanazawa",
+    "Prefecture": "Ishikawa",
+    "Date": "early june",
+    "Description": "This grand festival commemorates the entry of Lord Toshiie Maeda into Kanazawa Castle. The event features a massive costumed parade with thousands of participants portraying samurai and historical figures. It is the biggest festival in the prefecture and showcases the city's rich feudal history.",
+    "AnnualTurnOut": "400000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "fukui-ono-meigetsu-0013",
+    "name": "大野名月祭-ono moon viewing festival",
+    "City": "Ono",
+    "Prefecture": "Fukui",
+    "Date": "mid september",
+    "Description": "Held in the castle town of Ono, this festival celebrates the beauty of the harvest moon. Residents decorate the historic streets with candles and lanterns to create a peaceful and reflective environment. It is a community-focused gathering that highlights the charm of the local castle town.",
+    "AnnualTurnOut": "20000",
+    "RelevanceRating": "city"
+  },
+  {
+    "id": "yamanashi-shingen-ko-0014",
+    "name": "信玄公祭り-shingen-ko matsuri",
+    "City": "Kofu",
+    "Prefecture": "Yamanashi",
+    "Date": "first weekend of april",
+    "Description": "This festival recreates the historical departure of Takeda Shingen's army to battle. Thousands of people dress in full samurai armor and parade through the center of Kofu City. It is recorded as the largest gathering of samurai in the world by the Guinness Book of Records.",
+    "AnnualTurnOut": "300000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "nagano-toka-ebisu-0015",
+    "name": "長野十日えびす-nagano toka ebisu",
+    "City": "Nagano",
+    "Prefecture": "Nagano",
+    "Date": "9th to 11th of january",
+    "Description": "This festival is dedicated to Ebisu, the god of business prosperity and wealth. Devotees visit the shrine to purchase lucky charms and bamboo branches to ensure success in the coming year. It is a significant cultural event for the local business community in Nagano City.",
+    "AnnualTurnOut": "50000",
+    "RelevanceRating": "city"
+  },
+  {
+    "id": "shizuoka-izu-mizukake-0016",
+    "name": "伊豆水かけ祭り-izu water throwing festival",
+    "City": "Izu",
+    "Prefecture": "Shizuoka",
+    "Date": "mid july",
+    "Description": "This lively local festival involves participants splashing water on each other to pray for health and safety. The event is held in the hot spring district and is a fun-filled tradition for residents and tourists alike. It offers a refreshing way to combat the summer heat.",
+    "AnnualTurnOut": "15000",
+    "RelevanceRating": "local"
+  },
+  {
+    "id": "aichi-nagoya-atsuta-0017",
+    "name": "熱田まつり-atsuta matsuri",
+    "City": "Nagoya",
+    "Prefecture": "Aichi",
+    "Date": "5th of june",
+    "Description": "Held at the historic Atsuta Jingu, this festival is a grand celebration featuring traditional martial arts and ritual offerings. Many people visit the shrine to offer prayers for peace and safety throughout the year. The festival grounds are filled with food stalls and cultural performances.",
+    "AnnualTurnOut": "250000",
+    "RelevanceRating": "prefectural"
+  },
+  {
+    "id": "gifu-takayama-autumn-0018",
+    "name": "高山祭秋-takayama autumn festival",
+    "City": "Takayama",
+    "Prefecture": "Gifu",
+    "Date": "9th and 10th of october",
+    "Description": "The autumn version of the famous Takayama festival is known for its exquisite ornate floats. Skilled artisans operate mechanical dolls atop these floats while they are paraded through the town. The evening procession of illuminated floats is a breathtaking display of traditional Japanese craftsmanship.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "national"
+  },
+  {
+    "id": "niigata-niigata-odori-0019",
+    "name": "新潟総おどり-niigata so odori",
+    "City": "Niigata",
+    "Prefecture": "Niigata",
+    "Date": "mid september",
+    "Description": "This dance festival brings together groups from across the country to showcase different styles of modern and traditional dance. The city center is transformed into a massive performance stage for three days. It is a vibrant celebration of culture and movement that unites the community.",
+    "AnnualTurnOut": "200000",
+    "RelevanceRating": "prefectural"
+  },
+  {
+    "id": "toyama-gokayama-sasara-0020",
+    "name": "五箇山ささら踊り-gokayama sasara odori",
+    "City": "Nanto",
+    "Prefecture": "Toyama",
+    "Date": "late september",
+    "Description": "Performed in the UNESCO World Heritage village of Gokayama, this is a unique traditional dance. Dancers use the 'sasara' instrument to create a rhythmic sound as they perform in front of historic thatched-roof houses. It is a solemn and beautiful representation of mountain folk culture.",
+    "AnnualTurnOut": "10000",
+    "RelevanceRating": "local"
+  },
+  {
+    "id": "gion-matsuri-001",
+    "name": "祇園祭-gion matsuri",
+    "City": "Kyoto-city",
+    "Prefecture": "Kyoto",
+    "Date": "Entire month of July",
+    "Description": "This is Japan's most famous festival, centered around the Yasaka Shrine and featuring massive yamaboko floats. The peak occurs on July 17th with the Grand Procession of floats through the streets of central Kyoto. It has a history spanning over a thousand years and draws visitors from across the globe.",
+    "AnnualTurnOut": "1,000,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "tenjin-matsuri-002",
+    "name": "天神祭-tenjin matsuri",
+    "City": "Osaka-city",
+    "Prefecture": "Osaka",
+    "Date": "24th and 25th of July",
+    "Description": "Dedicated to Sugawara no Michizane, this festival features an elaborate river procession with illuminated boats and fireworks. The sight of hundreds of boats on the Okawa River creates a spectacular night view. It is widely considered one of Japan's three greatest festivals.",
+    "AnnualTurnOut": "1,300,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "nada-no-kenka-matsuri-003",
+    "name": "灘のけんか祭り-nada no kenka matsuri",
+    "City": "Himeji-city",
+    "Prefecture": "Hyogo",
+    "Date": "14th and 15th of October",
+    "Description": "Held at Matsubara Hachiman Shrine, this is famously known as the 'Fighting Festival' where three massive portable shrines are crashed into each other. Men demonstrate their strength and bravery through these ritualistic collisions. The intensity of the spectacle is unmatched in the region.",
+    "AnnualTurnOut": "150,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "aoi-matsuri-004",
+    "name": "葵祭-aoi matsuri",
+    "City": "Kyoto-city",
+    "Prefecture": "Kyoto",
+    "Date": "15th of May",
+    "Description": "The Aoi Matsuri is one of Kyoto's three major festivals, characterized by an elegant parade of people dressed in Heian-period costumes. The procession travels from the Imperial Palace to the Shimogamo and Kamigamo Shrines. It is noted for its solemn and aristocratic atmosphere reflecting Kyoto's deep history.",
+    "AnnualTurnOut": "100,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kishiwada-danjiri-matsuri-005",
+    "name": "岸和田だんじり祭-kishiwada danjiri matsuri",
+    "City": "Kishiwada-city",
+    "Prefecture": "Osaka",
+    "Date": "Mid-September",
+    "Description": "Teams of men pull massive wooden floats, known as danjiri, through the streets at high speed. The highlight is the 'yarimawashi' maneuver, where the floats are pulled around sharp corners without slowing down. It is famous for its high-energy and dangerous racing style.",
+    "AnnualTurnOut": "500,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "wakakusa-yamayaki-006",
+    "name": "若草山焼き-wakakusa yamayaki",
+    "City": "Nara-city",
+    "Prefecture": "Nara",
+    "Date": "Fourth Saturday of January",
+    "Description": "The entire hillside of Mount Wakakusa in Nara Park is set ablaze in a controlled fire ritual. The fire can be seen from across the city, accompanied by a modest fireworks display. It is believed to have originated from a land dispute resolution between two major shrines.",
+    "AnnualTurnOut": "50,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "nachi-no-ohi-matsuri-007",
+    "name": "那智の扇祭り-nachi no ohi matsuri",
+    "City": "Nachikatsuura-town",
+    "Prefecture": "Wakayama",
+    "Date": "14th of July",
+    "Description": "Held at Kumano Nachi Taisha, this is known as the 'Fire Festival' of the Kumano Kodo. Twelve massive torches are carried down the shrine approach, symbolizing the deities returning to the waterfall. The powerful imagery of fire against the backdrop of the Nachi Falls is deeply spiritual.",
+    "AnnualTurnOut": "20,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "hikiyama-matsuri-008",
+    "name": "長浜曳山祭-nagahama hikiyama matsuri",
+    "City": "Nagahama-city",
+    "Prefecture": "Shiga",
+    "Date": "Mid-April",
+    "Description": "This festival features elaborate floats that serve as stages for children to perform traditional kabuki plays. Recognized as a UNESCO Intangible Cultural Heritage, it showcases the high artistry of local communities. The craftsmanship of the floats is truly exquisite.",
+    "AnnualTurnOut": "100,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "ise-jingu-shinen-matsuri-009",
+    "name": "伊勢神宮神苑祭-ise jingu shinen matsuri",
+    "City": "Ise-city",
+    "Prefecture": "Mie",
+    "Date": "Late September",
+    "Description": "This festival celebrates the harvest through traditional performances and ceremonies at the Ise Grand Shrine. It offers a unique window into ancient Japanese court music and dance known as Gagaku. It is considered a deeply sacred event for the whole nation.",
+    "AnnualTurnOut": "80,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "shigisan-tora-matsuri-010",
+    "name": "信貴山寅まつり-shigisan tora matsuri",
+    "City": "Heguri-town",
+    "Prefecture": "Nara",
+    "Date": "Early February",
+    "Description": "Centered around the Chogosonshi-ji temple, this festival honors the tiger, the symbol of Mount Shigi. The event includes a large procession and prayers for good fortune and protection. It is a unique regional festival focused on traditional Japanese folklore.",
+    "AnnualTurnOut": "15,000",
+    "RelevanceRating": "Local"
+  },
+  {
+    "id": "imamiya-ebisu-toka-ebisu-011",
+    "name": "十日戎-toka ebisu",
+    "City": "Osaka-city",
+    "Prefecture": "Osaka",
+    "Date": "9th to 11th of January",
+    "Description": "Held at the Imamiya Ebisu Shrine, this festival is dedicated to the god of business and prosperity. Visitors come to pray for commercial success and purchase bamboo branches adorned with lucky symbols. It is the most vital annual event for the local business community.",
+    "AnnualTurnOut": "1,000,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "kanda-matsuri-hyogo-012",
+    "name": "神戸まつり-kobe matsuri",
+    "City": "Kobe-city",
+    "Prefecture": "Hyogo",
+    "Date": "Mid-May",
+    "Description": "Kobe's biggest festival is a vibrant celebration featuring parades, samba dancers, and food stalls throughout the city center. It was created to promote unity and joy after significant urban recovery. It reflects the cosmopolitan culture of the port city.",
+    "AnnualTurnOut": "900,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "otsu-matsuri-013",
+    "name": "大津祭-otsu matsuri",
+    "City": "Otsu-city",
+    "Prefecture": "Shiga",
+    "Date": "Second weekend of October",
+    "Description": "This traditional festival features thirteen ornate floats, known as hikiyama, that parade through the streets of Otsu. The festival is famous for its 'karakuri' mechanical puppets that act out various stories on the floats. It is an important cultural event for the lakeside city.",
+    "AnnualTurnOut": "50,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "ueno-tenjin-matsuri-014",
+    "name": "上野天神祭-ueno tenjin matsuri",
+    "City": "Iga-city",
+    "Prefecture": "Mie",
+    "Date": "Late October",
+    "Description": "This festival is famous for its eerie and historical parade of demons and deities known as 'oni-gyoretsu'. Local citizens dress in elaborate costumes, portraying a wide range of folkloric characters. It is recognized as an Important Intangible Folk Cultural Property of Japan.",
+    "AnnualTurnOut": "100,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "setsubun-matsuri-kasuga-015",
+    "name": "節分万燈籠-setsubun manto-ro",
+    "City": "Nara-city",
+    "Prefecture": "Nara",
+    "Date": "3rd of February",
+    "Description": "Thousands of stone and hanging lanterns are lit simultaneously at Kasuga Taisha Shrine. The atmosphere is mystical and meditative, drawing people who wish for a peaceful year. It is one of the most visually stunning night events in all of Nara.",
+    "AnnualTurnOut": "30,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "kibune-matsuri-016",
+    "name": "貴船祭-kibune matsuri",
+    "City": "Kyoto-city",
+    "Prefecture": "Kyoto",
+    "Date": "Early November",
+    "Description": "The festival held at Kibune Shrine celebrates the deity of water and rain. It involves a parade featuring local children and traditional mikoshi carriers climbing the mountain stairs. It offers a glimpse into mountain shrine culture near the city.",
+    "AnnualTurnOut": "10,000",
+    "RelevanceRating": "Local"
+  },
+  {
+    "id": "on-matsuri-017",
+    "name": "春日若宮おん祭-kasuga wakamiya on-matsuri",
+    "City": "Nara-city",
+    "Prefecture": "Nara",
+    "Date": "15th to 18th of December",
+    "Description": "A tradition spanning nearly 900 years, this festival features a massive procession of people dressed in historical costumes representing different eras of Japan. It is held to pray for a bountiful harvest and the welfare of the people. The ritual performances are considered historically invaluable.",
+    "AnnualTurnOut": "50,000",
+    "RelevanceRating": "National"
+  },
+  {
+    "id": "tsu-matsuri-018",
+    "name": "津まつり-tsu matsuri",
+    "City": "Tsu-city",
+    "Prefecture": "Mie",
+    "Date": "Early October",
+    "Description": "This large city festival highlights local heritage including the 'Shakkyomai' lion dance performance. The parade stretches through the main streets, showcasing different neighborhood groups. It is the most anticipated annual community gathering in the prefecture.",
+    "AnnualTurnOut": "200,000",
+    "RelevanceRating": "Prefectural"
+  },
+  {
+    "id": "sennichimae-matsuri-019",
+    "name": "千日前祭り-sennichimae matsuri",
+    "City": "Osaka-city",
+    "Prefecture": "Osaka",
+    "Date": "Mid-August",
+    "Description": "Located in the bustling district of Namba, this festival is a vibrant display of traditional music and summer revelry. It bridges the gap between old Japanese customs and the modern urban identity of Osaka. It is a lively hub for both tourists and locals.",
+    "AnnualTurnOut": "300,000",
+    "RelevanceRating": "City"
+  },
+  {
+    "id": "hie-jinja-matsuri-020",
+    "name": "日吉祭-hie matsuri",
+    "City": "Otsu-city",
+    "Prefecture": "Shiga",
+    "Date": "Mid-April",
+    "Description": "Conducted at Hiyoshi Taisha, this is one of the oldest shrine festivals in Japan. The highlight involves moving sacred portable shrines from the mountain toward Lake Biwa. It showcases ancient Shinto traditions tied to the natural landscape of Shiga.",
+    "AnnualTurnOut": "25,000",
+    "RelevanceRating": "Prefectural"
+  }
+]
