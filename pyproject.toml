@@ -7,8 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     # LLM
     "openai>=1.57.0",
-    # Embeddings
-    "sentence-transformers>=3.3.0",
+    # Embeddings (fastembed covers both dense nomic and BM25 sparse via ONNX, no torch needed)
     "fastembed>=0.4.2",
     # Vector store
     "qdrant-client>=1.12.0",
@@ -16,11 +15,21 @@ dependencies = [
     "pydantic>=2.10.0",
     # Environment
     "python-dotenv>=1.0.0",
+    # Evaluation & experiment tracking
+    "mlflow>=2.16.0",
+    "anthropic[vertex]>=0.40.0",
+    "pandas>=2.0.0",
+    # Backend
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "psycopg2-binary>=2.9.0",
+    "streamlit>=1.61.0",
 ]
 
 [tool.uv]
 constraint-dependencies = [
-    # onnxruntime and torch dropped macOS x86_64 wheels in newer releases
+    # onnxruntime dropped macOS x86_64 wheels after 1.17.x
     "onnxruntime<1.18; sys_platform == 'darwin' and platform_machine == 'x86_64'",
-    "torch<2.3; sys_platform == 'darwin' and platform_machine == 'x86_64'",
+    # older onnxruntime was compiled against numpy 1.x
+    "numpy<2; sys_platform == 'darwin' and platform_machine == 'x86_64'",
 ]
