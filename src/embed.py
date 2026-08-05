@@ -2,9 +2,8 @@ import json
 import os
 
 from dotenv import load_dotenv
-from fastembed import SparseTextEmbedding
+from fastembed import SparseTextEmbedding, TextEmbedding
 from qdrant_client import QdrantClient, models
-from sentence_transformers import SentenceTransformer
 
 load_dotenv()
 
@@ -19,18 +18,17 @@ def build_text(record: dict) -> str:
 
 def main():
     with open(DATA_PATH, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    records = data["matsuris"]
+        records = json.load(f)
     print(f"Loaded {len(records)} records")
 
     texts = [build_text(r) for r in records]
 
     print("Generating dense embeddings...")
-    dense_model = SentenceTransformer("nomic-ai/nomic-embed-text-v1.5", trust_remote_code=True)
+    dense_model = TextEmbedding("nomic-ai/nomic-embed-text-v1.5")
     # nomic requires a task prefix when encoding documents for indexing
     prefixed_texts = ["search_document: " + t for t in texts]
-    dense_vectors = dense_model.encode(prefixed_texts, show_progress_bar=True, batch_size=32)
-    print(f"Dense embeddings shape: {dense_vectors.shape}")
+    dense_vectors = list(dense_model.embed(prefixed_texts))
+    print(f"Dense embeddings generated: {len(dense_vectors)}")
 
     print("Generating BM25 sparse embeddings...")
     bm25 = SparseTextEmbedding(model_name="Qdrant/bm25")
@@ -56,7 +54,9 @@ def main():
         point = models.PointStruct(
             id=i,
             vector={
-                "text-dense": dense_vectors[i].tolist(),
+                "text-dense": dense_vectors[
+                    i
+                ].tolist(),  # fastembed returns numpy arrays
                 "text-sparse": models.SparseVector(
                     indices=sparse.indices.tolist(),
                     values=sparse.values.tolist(),
